@@ -1,0 +1,163 @@
+Timestamp;Country;Gender;Age;Group;HighSchool;MonthsAbroad;MusicStreamingService;MinutesStreamMusic;VideoStreamingService;MinutesStreamVideo;PayVideo;PayMusic
+01/10/2018 11:34;Spain;Male;21;B;Partially State-funded School;9;Spotify;90;None of them;0;No;No
+01/10/2018 12:48;Spain;Male;22;A;Partially State-funded School;8;Apple Music;15;Netflix;180;Yes;Yes
+01/10/2018 13:31;Spain;Male;52;B;Partially State-funded School;0;Spotify;10;Amazon Prime;60;No;No
+01/10/2018 13:34;Spain;Male;58;B;Private;12;Spotify;45;None of them;0;Yes;No
+01/10/2018 13:43;Spain;Female;15;B;Partially State-funded School;0;Spotify;200;None of them;0;No;No
+01/10/2018 13:51;Spain;Female;15;B;Private;0;Spotify;300;YouTube;90;No;No
+01/10/2018 14:36;Spain;Female;14;B;Partially State-funded School;0;None of them;0;YouTube;60;No;No
+01/10/2018 14:40;Spain;Female;15;B;Private;0;Spotify;60;Netflix;90;Yes;No
+01/10/2018 14:41;Spain;Female;30;B;Public School;0;Spotify;120;Netflix;240;Yes;No
+01/10/2018 15:00;Spain;Female;55;B;Public School;2;Spotify;60;YouTube;30;No;No
+01/10/2018 15:12;Spain;Female;61;B;Partially State-funded School;0;None of them;0;None of them;0;No;No
+01/10/2018 15:15;Spain;Female;26;B;Partially State-funded School;6;Spotify;180;None of them;0;No;No
+01/10/2018 15:27;Spain;Female;14;B;Partially State-funded School;0;None of them;0;Netflix;0;No;No
+01/10/2018 15:35;Spain;Female;57;B;Partially State-funded School;0;Spotify;40;Amazon Prime;0;No;No
+01/10/2018 15:36;Spain;Female;56;B;Public School;15;None of them;0;Netflix;60;No;No
+01/10/2018 15:41;Spain;Male;22;A;Partially State-funded School;3;Spotify;120;Netflix;180;Yes;No
+01/10/2018 15:51;Spain;Female;52;B;Private;1;Spotify;20;None of them;0;No;No
+01/10/2018 15:52;Spain;Female;59;A;Private;6;None of them;0;Netflix;120;No;No
+01/10/2018 16:56;Spain;Female;59;A;Private;0;Spotify;50;Netflix;120;Yes;No
+01/10/2018 17:21;Spain;Female;56;A;Private;24;None of them;0;None of them;0;No;No
+01/10/2018 17:37;Spain;Female;18;B;Public School;0;None of them;0;None of them;0;No;No
+01/10/2018 18:29;Spain;Female;14;B;Partially State-funded School;0;Spotify;240;None of them;0;No;No
+01/10/2018 19:17;Italy;Male;28;A;Public School;2;None of them;0;Netflix;30;No;No
+01/10/2018 19:17;Spain;Male;27;A;Public School;0;None of them;0;Netflix;120;No;No
+01/10/2018 19:17;Northern Ireland ;Male;24;A;Public School;24;Spotify;120;Netflix;40;Yes;Yes
+01/10/2018 19:19;Spain;Male;22;A;Partially State-funded School;1;None of them;0;Amazon Prime;30;No;No
+01/10/2018 19:21;UK;Female;25;A;Public School;24;Spotify;60;Netflix;90;Yes;No
+01/10/2018 19:22;Spain;Female;24;A;Partially State-funded School;29;Spotify;100;None of them;0;No;No
+01/10/2018 19:24;Spain;Male;50;B;Public School;0;Spotify;30;Amazon Prime;30;Yes;No
+01/10/2018 19:26;Spain;Female;23;A;Partially State-funded School;0;None of them;0;None of them;0;No;No
+01/10/2018 19:28;Spain;Male;21;A;Private;0;Spotify;150;Netflix;60;Yes;Yes
+01/10/2018 19:32;Spain;Female;27;A;Partially State-funded School;0;Spotify;30;None of them;0;No;No
+01/10/2018 19:36;Spain;Female;15;A;Partially State-funded School;0.5;Spotify;100;Netflix;180;No;No
+01/10/2018 19:40;Spain;Female;33;A;Partially State-funded School;6;Spotify;30;Netflix;50;Yes;Yes
+01/10/2018 19:42;Spain;Female;23;A;Public School;5;Spotify;60;Netflix;45;Yes;No
+01/10/2018 19:45;Lithuania ;Female;25;A;Public School;75;None of them;0;Netflix;120;No;No
+01/10/2018 19:45;Spain;Female;57;B;Private;0;None of them;0;None of them;0;Yes;No
+01/10/2018 19:58;Spain;Female;28;A;Partially State-funded School;6;Spotify;60;Netflix;60;Yes;Yes
+01/10/2018 20:00;Spain;Male;53;A;Public School;0;None of them;0;None of them;0;No;No
+01/10/2018 20:07;Spain;Female;21;A;Public School;0;Spotify;30;Netflix;90;No;No
+01/10/2018 20:10;Spain;Male;22;A;Public School;0;Spotify;30;Netflix;90;Yes;No
+01/10/2018 20:11;Spain;Female;21;A;Partially State-funded School;0;Spotify;60;Netflix;120;Yes;No
+01/10/2018 20:13;Spain;Female;22;A;Partially State-funded School;0;Spotify;30;Netflix;90;Yes;Yes
+01/10/2018 20:24;Spain;Male;17;B;Public School;1;None of them;0;YouTube;20;No;No
+01/10/2018 20:26;Spain;Female;22;A;Partially State-funded School;0;Spotify;120;Netflix;60;Yes;Yes
+01/10/2018 20:29;Spain;Male;47;A;Public School;3;Spotify;15;Netflix;60;Yes;Yes
+01/10/2018 20:41;Italy;Male;23;A;Public School;15;Spotify;60;Netflix;60;Yes;Yes
+01/10/2018 21:05;Spain;Female;26;A;Partially State-funded School;20;Spotify;120;Netflix;40;Yes;Yes
+01/10/2018 21:27;Spain;Female;23;A;Partially State-funded School;12;Spotify;300;Netflix;60;Yes;Yes
+01/10/2018 21:32;Spain;Female;29;A;Partially State-funded School;5;None of them;0;Netflix;60;No;Yes
+01/10/2018 21:38;Spain;Female;23;A;Partially State-funded School;0;Spotify;500;HBO;20;No;Yes
+01/10/2018 21:45;Spain;Male;15;A;Partially State-funded School;0;Spotify;60;YouTube;240;No;No
+01/10/2018 21:48;Spain;Female;43;A;Partially State-funded School;9;Apple Music;240;YouTube;60;Yes;No
+01/10/2018 21:49;Spain;Female;53;A;Public School;0;Spotify;30;Netflix;0;Yes;No
+01/10/2018 21:55;Spain;Female;48;A;Public School;0;Spotify;180;YouTube;120;No;No
+01/10/2018 21:58;Spain;Male;20;A;Partially State-funded School;0;Spotify;60;Netflix;15;Yes;No
+01/10/2018 22:01;Spain;Male;23;A;Public School;5;Spotify;60;None of them;0;No;No
+01/10/2018 22:02;Spain;Male;22;A;Public School;0;Spotify;10;Amazon Prime;20;Yes;Yes
+01/10/2018 22:05;Spain;Male;23;A;Public School;0;Spotify;60;Netflix;120;Yes;Yes
+01/10/2018 22:05;Spain;Male;22;A;Partially State-funded School;4;Spotify;30;Netflix;120;Yes;No
+01/10/2018 22:09;Spain;Female;22;A;Public School;0;Spotify;10;YouTube;30;No;No
+01/10/2018 22:14;Spain;Male;22;A;Public School;2;Spotify;120;None of them;0;No;No
+01/10/2018 22:18;Spain;Male;61;B;Partially State-funded School;0;Spotify;180;Netflix;0;No;No
+01/10/2018 22:21;Spain;Male;23;A;Partially State-funded School;2;Tidal;100;Netflix;100;Yes;Yes
+01/10/2018 22:26;Spain;Female;47;B;Public School;0;None of them;0;HBO;50;No;No
+01/10/2018 22:29;United States of America;Male;74;A;Private;67;None of them;0;None of them;0;No;No
+01/10/2018 22:31;Spain;Male;50;A;Public School;0;None of them;0;HBO;50;No;No
+01/10/2018 22:35;Spain;Female;23;A;Private;0;Spotify;120;None of them;0;No;No
+01/10/2018 22:41;Spain;Male;21;A;Public School;2;Spotify;180;Netflix;20;Yes;Yes
+01/10/2018 22:43;Spain;Male;32;A;Partially State-funded School;1;None of them;0;Netflix;90;No;No
+01/10/2018 22:47;Spain;Male;19;A;Public School;6;Spotify;60;Amazon Prime;90;Yes;Yes
+01/10/2018 23:00;Spain;Female;60;B;Private;9;None of them;0;None of them;0;No;No
+01/10/2018 23:05;Spain;Male;21;A;Public School;2;Spotify;60;HBO;20;Yes;Yes
+01/10/2018 23:37;Spain;Female;28;A;Partially State-funded School;60;Apple Music;30;YouTube;15;No;Yes
+02/10/2018 0:04;Spain;Male;22;A;Partially State-funded School;3;None of them;0;Netflix;30;No;No
+02/10/2018 0:10;Spain;Male;23;A;Partially State-funded School;1;Spotify;150;YouTube;120;No;No
+02/10/2018 0:10;Spain;Male;22;A;Partially State-funded School;12;Spotify;60;Netflix;60;Yes;Yes
+02/10/2018 0:10;Spain;Male;24;A;Partially State-funded School;14;Spotify;200;None of them;0;No;No
+02/10/2018 0:10;Saudi Arabia;Male;23;A;Private;13;Spotify;60;YouTube;360;No;No
+02/10/2018 0:22;Spain;Male;22;A;Private;1;Spotify;20;YouTube;180;No;No
+02/10/2018 0:28;Spain;Female;21;A;Partially State-funded School;2;Spotify;60;Netflix;60;Yes;No
+02/10/2018 0:49;Belgium;Male;22;A;Public School;1;Spotify;300;Netflix;60;Yes;Yes
+02/10/2018 1:24;Spain;Female;22;A;Partially State-funded School;4;Spotify;30;Netflix;30;Yes;No
+02/10/2018 3:26;United States of America;Female;21;A;Public School;4;Spotify;360;Netflix;30;Yes;Yes
+02/10/2018 3:29;United States of America;Female;21;A;Public School;6;Spotify;300;Amazon Prime;15;Yes;Yes
+02/10/2018 3:35;United States of America;Female;25;A;Public School;0;Spotify;120;Netflix;60;Yes;Yes
+02/10/2018 3:37;United States of America;Male;24;A;Public School;0;Spotify;90;Netflix;120;No;Yes
+02/10/2018 3:48;United States of America;Male;25;A;Public School;96;Spotify;90;Netflix;60;Yes;Yes
+02/10/2018 4:05;United States of America;Female;23;A;Public School;0;Apple Music;120;None of them;0;No;No
+02/10/2018 7:23;Spain;Female;21;A;Private;1;Spotify;60;None of them;0;No;No
+02/10/2018 9:15;Spain;Male;22;A;Public School;10;None of them;0;None of them;0;No;No
+02/10/2018 9:31;Spain;Male;23;A;Public School;0;Spotify;120;None of them;0;No;No
+02/10/2018 10:20;Spain;Female;22;A;Public School;0;Spotify;60;Netflix;50;No;Yes
+02/10/2018 10:24;Spain;Male;27;A;Private;6;None of them;0;None of them;0;No;No
+02/10/2018 10:49;Russia;Female;21;A;Public School;5;Apple Music;300;None of them;0;No;No
+02/10/2018 11:33;Italy;Female;24;A;Public School;5;Spotify;60;Netflix;120;No;No
+02/10/2018 11:35;Spain;Male;22;A;Public School;0;Spotify;30;HBO;60;No;Yes
+02/10/2018 12:13;Belgium;Male;22;A;Public School;1;Spotify;300;Netflix;60;Yes;Yes
+02/10/2018 13:20;Spain;Female;15;A;Partially State-funded School;0;Spotify;120;Netflix;180;Yes;No
+02/10/2018 15:17;Spain;Male;22;A;Public School;6;Spotify;120;Netflix;20;No;Yes
+02/10/2018 16:18;Colombia;Female;24;A;Private;127;Spotify;180;Netflix;30;Yes;Yes
+02/10/2018 16:37;Italy;Male;21;A;Public School;10;Spotify;60;Netflix;60;No;No
+02/10/2018 17:58;Spain;Male;27;A;Partially State-funded School;0;Spotify;360;Netflix;60;Yes;No
+02/10/2018 18:03;Spain;Female;24;A;Partially State-funded School;5;None of them;0;Netflix;90;No;No
+02/10/2018 18:23;Spain;Female;31;A;Partially State-funded School;24;None of them;0;Netflix;10;No;No
+02/10/2018 20:24;Denmark;Male;22;A;Public School;16;Spotify;60;Netflix;60;Yes;Yes
+02/10/2018 20:25;Italy;Male;21;A;Private;6;Apple Music;120;None of them;0;Yes;No
+02/10/2018 20:27;Denmark;Female;22;A;Public School;6;Spotify;180;Netflix;60;Yes;Yes
+02/10/2018 20:33;Denmark;Female;22;A;Public School;6;Spotify;180;Netflix;60;Yes;Yes
+02/10/2018 20:35;Germany;Male;28;A;Public School;18;None of them;0;Amazon Prime;60;No;Yes
+02/10/2018 22:50;Spain;Male;22;A;Public School;0;Spotify;60;YouTube;60;No;No
+02/10/2018 22:55;Spain;Female;17;A;Partially State-funded School;0;Spotify;20;Netflix;120;Yes;No
+02/10/2018 22:57;Spain;Female;22;A;Public School;0;None of them;60;Netflix;60;Yes;No
+02/10/2018 23:35;United States of America;Male;27;A;Public School;3;Spotify;60;Netflix;90;Yes;Yes
+03/10/2018 0:53;Spain;Male;22;A;Public School;0;Spotify;180;None of them;0;No;No
+03/10/2018 10:30;Spain;Female;60;A;Private;0;None of them;0;HBO;30;No;No
+03/10/2018 11:35;Spain;Female;57;A;Private;0;None of them;0;Netflix;30;No;No
+03/10/2018 13:01;Spain;Male;26;A;Private;2;None of them;0;Netflix;120;No;No
+03/10/2018 13:23;Spain;Male;20;A;Public School;0;Spotify;120;Netflix;60;No;No
+03/10/2018 21:54;Spain;Male;23;A;Private;9;Spotify;30;Netflix;45;Yes;No
+03/10/2018 22:26;Spain;Female;23;A;Partially State-funded School;3;None of them;0;Netflix;60;No;No
+03/10/2018 22:31;Spain;Male;51;A;Public School;0;Spotify;30;Netflix;15;Yes;Yes
+03/10/2018 22:35;Peru;Female;25;B;Private;0;Spotify;45;Netflix;30;Yes;No
+03/10/2018 22:37;Spain;Male;22;A;Private;0;None of them;0;YouTube;10;No;No
+03/10/2018 22:59;Spain;Male;23;A;Public School;0;Spotify;5;None of them;0;No;No
+04/10/2018 0:14;Spain;Female;23;A;Partially State-funded School;0;Spotify;30;YouTube;40;No;No
+04/10/2018 8:49;Spain;Male;20;A;Partially State-funded School;0;Spotify;90;Netflix;40;Yes;Yes
+04/10/2018 17:44;Australia;Female;25;A;Private;48;Spotify;350;Netflix;200;Yes;Yes
+04/10/2018 17:45;Spain;Female;22;A;Private;9;Spotify;90;Netflix;60;No;Yes
+04/10/2018 17:46;Spain;Female;22;A;Private;0;Spotify;90;Netflix;90;No;Yes
+04/10/2018 17:48;Spain;Female;23;A;Partially State-funded School;6;Spotify;20;Netflix;15;Yes;No
+04/10/2018 17:49;Spain;Female;22;A;Public School;10;Spotify;90;Netflix;60;Yes;No
+04/10/2018 17:51;Spain;Male;23;A;Partially State-funded School;18;Spotify;400;Netflix;100;Yes;Yes
+04/10/2018 17:52;Australia;Male;30;A;Private;42;Spotify;120;Netflix;60;No;Yes
+04/10/2018 17:52;Spain;Female;24;A;Partially State-funded School;14;Spotify;120;Netflix;20;Yes;No
+04/10/2018 18:05;Spain;Male;29;A;Partially State-funded School;5;Spotify;500;Netflix;176;Yes;Yes
+05/10/2018 17:24;Spain;Male;21;A;Private;26;Spotify;90;Netflix;60;Yes;Yes
+05/10/2018 17:31;Spain;Male;21;A;Private;8;Spotify;60;Netflix;60;Yes;Yes
+05/10/2018 17:34;Spain;Female;20;A;Partially State-funded School;2;Spotify;45;Netflix;40;Yes;Yes
+06/10/2018 7:16;United States of America;Male;22;A;Public School;4;Spotify;120;None of them;0;Yes;No
+06/10/2018 17:25;Spain;Female;44;A;Public School;0;None of them;0;Netflix;25;No;No
+06/10/2018 17:36;Peru;Male;42;B;Partially State-funded School;0;None of them;0;Netflix;15;No;No
+08/10/2018 19:14;Germany;Female;20;A;Partially State-funded School;13;Apple Music;120;Amazon Prime;200;Yes;Yes
+11/10/2018 17:39;Spain;Male;21;A;Public School;0;Apple Music;45;Netflix;120;Yes;No
+11/10/2018 17:39;Spain;Female;33;A;Public School;20;None of them;0;Netflix;60;No;No
+11/10/2018 17:42;Spain;Female;23;A;Partially State-funded School;9;Spotify;30;HBO;120;No;No
+11/10/2018 17:47;Spain;Female;23;A;Private;5;Spotify;60;Netflix;60;Yes;No
+11/10/2018 17:49;Spain;Female;22;A;Public School;0;Spotify;120;Netflix;60;Yes;No
+11/10/2018 17:51;Spain;Female;22;A;Partially State-funded School;1;Spotify;60;Netflix;40;Yes;No
+11/10/2018 18:05;Spain;Female;23;A;Private;0;Spotify;120;Netflix;60;No;No
+11/10/2018 18:18;Spain;Female;20;A;Private;5;Spotify;0;None of them;0;No;No
+11/10/2018 18:21;Spain;Female;21;A;Public School;15;Spotify;300;Netflix;100;No;No
+11/10/2018 18:40;Spain;Female;21;A;Public School;9;Spotify;180;Netflix;45;Yes;Yes
+11/10/2018 19:41;Spain;Male;34;A;Public School;8;None of them;0;Netflix;60;No;No
+11/10/2018 21:44;Spain;Male;22;A;Public School;10;Spotify;180;None of them;0;No;Yes
+11/10/2018 21:54;Spain;Female;58;A;Private;0;None of them;0;None of them;0;No;No
+11/10/2018 22:04;Spain;Male;22;A;Public School;0;Spotify;75;Amazon Prime;60;No;Yes
+12/10/2018 0:05;Spain;Female;22;A;Partially State-funded School;0;Spotify;120;None of them;0;No;No
+12/10/2018 11:51;Spain;Female;33;A;Public School;20;None of them;0;Netflix;60;No;No
+12/10/2018 19:53;Spain;Female;58;A;Private;0;None of them;0;None of them;0;No;No
+13/10/2018 20:59;Spain;Male;22;A;Public School;8;None of them;0;None of them;0;No;No
+15/10/2018 13:40;Canada;Male;26;A;Private;13;Spotify;120;None of them;0;No;No

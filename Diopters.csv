@@ -1,0 +1,64 @@
+SEX;TYPE;LEFT;RIGHT;AGE
+M;Myopia;2;1,75;19
+W;Myopia Astigmatism;1,25;1,25;20
+M;Astigmatism;0,5;0,5;19
+W;Myopia;6;6;18
+W;Myopia;3,75;3,5;18
+W;Other;0,5;0,75;18
+M;Other;1;1,25;19
+M;Myopia;2,8;1,9;20
+M;Astigmatism;0,75;1;20
+W;Myopia Astigmatism;2,5;2,75;19
+W;Myopia Astigmatism;1,5;1,25;22
+W;Myopia Astigmatism;1,5;1,25;22
+M;Astigmatism;0,75;0,75;27
+M;Astigmatism;0,75;0,75;27
+M;Myopia Astigmatism;1,5;1,75;20
+W;Myopia Astigmatism;2,25;2,5;25
+M;Other;0,75;1;19
+W;Myopia;0,75;1,5;19
+W;Myopia Astigmatism;3;3;19
+M;Other;1;1;19
+M;Myopia;2;2;19
+M;Other;1,25;0,75;19
+M;Myopia Astigmatism;3,25;2,75;20
+W;Myopia Astigmatism;0,25;0,5;19
+W;Farsightedness Astigmatism;0,5;1,25;19
+W;Farsightedness;6;6;29
+W;Myopia;4,75;5;19
+W;Myopia;4,75;5;19
+W;Myopia Astigmatism;4,75;4,25;20
+W;Farsightedness Astigmatism;1,5;0,5;19
+M;Myopia;0,25;0,25;18
+M;Myopia Astigmatism;1,5;1,75;23
+M;Myopia;3,75;3,75;22
+W;Myopia Farsightedness;1,25;1,25;19
+M;Myopia Astigmatism;1,75;1,75;21
+W;Myopia Astigmatism;1;1,75;21
+W;Myopia;0,5;0,5;24
+W;Myopia Astigmatism;3;3;19
+W;Farsightedness;0,25;0,25;26
+M;Myopia;3,25;3,25;22
+M;Other;1;1;20
+W;Myopia;6,25;5,75;18
+W;Myopia Astigmatism;4,25;3,75;28
+M;Myopia Astigmatism;1,25;1;20
+M;Myopia;0,25;0,25;20
+M;Farsightedness;0,5;0,75;22
+M;Farsightedness;0,5;0,75;22
+M;Myopia;1,5;1,5;24
+W;Farsightedness Astigmatism;3,5;3;18
+W;Other;1;1;18
+W;Myopia;1,5;1,75;19
+W;Astigmatism;1,25;1;20
+W;Farsightedness Astigmatism;1,25;1,75;19
+W;Myopia;1,25;1,5;19
+W;Myopia;2,5;2,75;21
+M;Myopia;1,25;1,5;21
+W;Astigmatism Myopia;1,75;1,5;20
+M;Miopia;1,75;1,5;21
+M;Astigmatism Myopia;2;2,5;22
+W;Myopia;1,75;1,85;21
+W;Myopia;1,5;1,5;19
+M;Myopia;1,25;1,25;21
+W;Myopia;5;5;21
